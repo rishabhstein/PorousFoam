@@ -1,3 +1,6 @@
+/*This file is written by Rishabh Prakash Sharma*/
+
+
 //Creating labels for calculating the permeability for each time step in 
 ////// solveC.H
 {
